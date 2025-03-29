@@ -1,2 +1,0 @@
-# schedule
-Interactive scheduling application
